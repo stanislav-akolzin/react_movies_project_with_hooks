@@ -1,14 +1,15 @@
-Movies App
+# Movies App
 
-This is React project for seeking movies.
-The functionality is quite simple. It uses https://www.omdbapi.com/ open movie database to find information about movies.
+## Description
+This is React project for searching movies.
+The functionality is quite simple. It uses https://www.omdbapi.com/ - open movie database to find information about movies.
 
 You can find movies by name and limit you search with "Movies only" and "Series only" filters.
 
-INSTALL
+## Installation
 1. Go to local catalog where you'd like to make a project
 
-2. Make `git clone https://github.com/stanislav-akolzin/online-store.git`
+2. Make `git clone https://github.com/stanislav-akolzin/react_movies_project.git`
 
 3. Go to new project catalog `cd react_movies_app`
 
