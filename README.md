@@ -1,7 +1,7 @@
 # Movies App
 
 ## Description
-This is React project for searching movies.
+This is React project for searching movies wiht class components.
 The functionality is quite simple. It uses https://www.omdbapi.com/ - open movie database to find information about movies.
 
 You can find movies by name and limit you search with "Movies only" and "Series only" filters.
