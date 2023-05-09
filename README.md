@@ -1,7 +1,7 @@
-# Movies App
+# Movies App (hooks)
 
 ## Description
-This is React project for searching movies wiht class components.
+This is React project for searching movies with hooks.
 The functionality is quite simple. It uses https://www.omdbapi.com/ - open movie database to find information about movies.
 
 You can find movies by name and limit you search with "Movies only" and "Series only" filters.
